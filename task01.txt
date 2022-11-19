@@ -1,0 +1,12 @@
+https://stackoverflow.com/questions/1517582/what-is-the-difference-between-statically-typed-and-dynamically-typed-languages
+https://stackoverflow.com/questions/17253545/scripting-language-vs-programming-language
+https://cs.lmu.edu/~ray/notes/paradigms
+
+
+//Answer reference
+https://pythonistaplanet.com/difference-between-statically-and-dynamically-typed-languages/
+yes. all scripting languages are dynamically typed, 
+because their is no compiler to do static type checking anyway.
+
+
+Day1-Completed
